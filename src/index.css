@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+Header {
+  background: url(http://wallpapercave.com/wp/pEeUsp1.jpg) !important;
+  height: 140px !important;
+}
+
+@font-face {
+  font-family: distantGalaxy;
+  src: url(fonts/sf-distant-galaxy.outline.ttf);
+}
+
+
+h1 {
+  font-family: distantGalaxy;
+  color: white !important;
+  font-size: 80px;
+  margin-top: 40px !important;;
+	font-weight: 500;
+}
+
+.site-layout-content {
+  padding: 50px;
+}
+
+.table-content {
+  min-height: 280px;
+  padding: 24px;
+}
